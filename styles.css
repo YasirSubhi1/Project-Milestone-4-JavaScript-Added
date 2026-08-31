@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@600&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+#main-title {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+    margin: 0px;
+    padding: 16px;
+}
+
+#main-title {
+    color: #0066cc;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+#main-title a:hover {
+    color: rgb(116, 204, 255);
+}
+
+#main-title a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+h1 {
+    color: #0066cc;
+    text-align: center;
+    font-size: 32px;
+}
+
+h2 {
+    color: #0066cc;
+    text-align: center;
+    font-size: 28px;
+}
+
+h3 {
+    color: #0957a5;
+    text-align: center;
+    font-size: 22px;
+}
+
+p {
+    color: #000000;
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+}
+
+nav {
+    background-color: navy;
+    padding: 15px;
+    border: 2px solid #66b3ff;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    text-align: center;
+}
+
+#profile-image,
+#project-image,
+#contact-image {
+    max-width: 100%;
+    height: auto;
+}
+
+form {
+    max-width: 500px;
+    margin: 30px auto;
+}
+
+form label {
+    display: block;
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    font-size: 16px;
+}
+
+form textarea {
+    min-height: 120px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 15px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    text-align: left;
+}
+
+.valid-input1 {
+    background-color: lightblue;
+}
+
+.valid-input2 {
+    background-color: lightgreen;
+}
+
+.valid-input3 {
+    background-color: lightpink;
+}
+
+footer {
+    margin-top: 30px;
+    }

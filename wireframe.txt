@@ -1,0 +1,45 @@
+Home Pagem                       |
+                                 |
+Header                           |
+Navigation                       |
+Home                             |
+Projects                         |                
+Contact                          |
+Main Heading (H1): Yasir Subhi   |
+Welcome Section                  |
+About Me Section                 |
+Footer                           |
+                                 |
+Color Palette: Blue, White, Gray |
+Font: Arial                      |
+----------------------------------
+----------------------------------
+Projects Page                    |
+Header                           |
+Navigation                       |
+Home                             |
+Projects                         |
+Contact                          |
+Main Heading (H1): My Projects   |
+Projects and Work Section        |
+Portfolio Project                |
+Footer                           |
+                                 |
+Color Palette: Blue, White, Gray |
+Font: Arial                      |
+----------------------------------
+-------------------------------------
+About/Contact Page                  |
+Header                              |
+Navigation                          |
+Home                                |
+Projects                            |
+Contact                             |
+Main Heading (H1): About and Contact|
+About Me Section                    |
+Contact Section                     |
+Footer                              |
+                                    |
+Color Palette: Blue, White, Gray    |
+Font: Arial                         |
+-------------------------------------
